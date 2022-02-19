@@ -1,0 +1,29 @@
+﻿body {
+    background-color:lightgray;
+}
+h1{
+    color:darkslategray;
+}
+header{
+    height:90px;
+    background-color:gray;
+}
+header nav ul li{
+    display:inline;
+    list-style:none;
+
+}
+header nav ul li a{
+    padding:12px;
+    background-color:darkslategray;
+    color:#ffd800;
+    font-weight:bold;
+}
+header nav ul li a:hover{
+    color:white;
+}
+header nav{
+    position:absolute;
+    right:15px;
+    top:45px;
+}
